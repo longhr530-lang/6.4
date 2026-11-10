@@ -2,7 +2,7 @@
 MỤC 1: THÔNG TIN SINH VIÊN                                                                       
  Họ và tên sinh viên:Nguyễn Hải Long                                                                                                                                     
  Mã sinh viên: 24810320154                                    
- Lớp / Khóa: [Điền tên lớp]                                                        
+ Lớp / Khóa: D19QTANM1                                                       
 
 MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 (Sinh viên chụp ảnh màn hình ứng dụng đang chạy thực tế và nhúng vào file
