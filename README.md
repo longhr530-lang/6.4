@@ -1,6 +1,6 @@
 # 6.4
 MỤC 1: THÔNG TIN SINH VIÊN                                                                       
- Họ và tên sinh viên:Nguyễn Hải Long
+ Họ và tên sinh viên:Nguyễn Hải Long                                                                                                                                     
  Mã sinh viên: 24810320154                                    
  Lớp / Khóa: [Điền tên lớp]                                                        
 
